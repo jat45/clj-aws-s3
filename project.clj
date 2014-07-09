@@ -1,4 +1,4 @@
-(defproject org.clojars.jat45/clj-aws-s3 "0.3.10-SNAPSHOT"
+(defproject org.clojars.jat45/clj-aws-s3 "0.3.10"
   :description "Clojure Amazon S3 library"
   :url "https://github.com/jat45/clj-aws-s3"
   :license {:name "Eclipse Public License"
